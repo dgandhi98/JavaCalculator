@@ -17,9 +17,10 @@ printed to the text file.
 
 ##How to run the program.
 The java file can be compiled and called through the command line in this format:
+````
 javac Runner.java
 java Runner infilename outfilename
-==> For Example: java Runner infix_expr_custom.txt out.txt
-
+==> ForExample: java Runner infix_expr_custom.txt out.txt
+```
 ##Contributors
 * Divyanshu Gandhi (Github: dgandhi98)
