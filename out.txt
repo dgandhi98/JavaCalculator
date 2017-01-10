@@ -1,0 +1,8 @@
+Check console, there exists an error in: ( 5 + 5 * 2
+Check console, there exists an error in: 5 + 5 * 2 )
+Check console, there exists an error in: cot(3.14)
+Check console, there exists an error in: 4++
+Check console, there exists an error in: 4 (4 - 2 - 4)
+Check console, there exists an error in: 5&5.1
+Check console, there exists an error in: 4|1.2
+Check console, there exists an error in: !cos(tan(3.14))
